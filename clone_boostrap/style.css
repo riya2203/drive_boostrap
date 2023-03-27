@@ -1,0 +1,97 @@
+.navbar-nav{
+    outline: none;
+    border: none;
+    width: 46rem;
+    padding: 0.5rem 0;
+    border-radius: 100px;
+    border-left-style: none;
+
+}
+
+.searchhhh{
+    border-radius: 100px;
+    border-right-style: none;
+    background-color: #edf2fc;
+}
+
+.shadow{
+    /* border-radius: 200px; */
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+    border-bottom-style: none;
+    width: 7rem;
+    height: 3rem;
+    /* margin-bottom: 0rem;
+    padding-bottom: 0rem; */
+}
+
+.progress{
+    width: 10rem;
+    height: .3rem;
+    margin-left: 1.7rem;
+
+}
+
+.card{
+    width: 16rem;
+    height: 13rem;   
+}
+
+.card-footer{
+    font-size:.8rem;
+}
+
+.main {
+    position: relative; left: 530px; top: 340px;
+  }
+  
+  #folder-icon {
+    background: transparent; position: relative;
+    left: -40px; top: 8px;
+    font-variation-settings: 'FILL' 1,'wght' 400, 'GRAD' 0, 'opsz' 48
+  }
+  
+  .folder-text {
+    position: relative;
+    left: -257px; top: -259px;
+    font-size: 13px; font-weight: 600;
+  }
+  
+  /* Folders */
+  .container-folder {
+    position: relative; padding: 3px;
+    width: 600px; height: 88px;
+    left: -270px; top: -240px;
+  }
+  
+  .list-folder {
+    display: inline; padding: 0px 5px;
+    list-style: none; border-radius: 6px;
+  }
+  
+  .link-folder {
+    text-decoration: none; padding: 15px 56px;
+    border: 1px solid #5f6368; border-radius: 6px;
+  }
+  
+  .list-folder :hover {
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+
+  .btn11{
+    width: 12rem;
+    height: 2rem;
+  }
+
+  .list-group :hover{
+    cursor: pointer;
+    background-color: #e0e0e0;
+  }
+
+  .card:hover{
+    cursor: pointer;
+    background-color: #e0e0e0;
+  }
+
